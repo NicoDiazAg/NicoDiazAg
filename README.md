@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
+<!--![Foto de Perfil Nicolas](https://github.com/user-attachments/assets/c51bbaf6-f820-4a83-b16b-4869f2fb8fd8)
+
 **NicoDiazAg/NicoDiazAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
