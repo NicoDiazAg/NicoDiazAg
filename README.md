@@ -4,7 +4,7 @@ Fourth-year student-athlete at Hobart and William Smith Colleges, majoring in Co
 
 Skills: React, Node.js, TypeScript, HTML, CSS, Java, PostgreSQL
 
-- 👀 I speak Spanish & English natively, and I'm currently learning Chinese
+👀 I speak Spanish & English natively, and I'm currently learning Chinese
 
 
 
